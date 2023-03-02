@@ -3,8 +3,6 @@
 - 🌱 I’m currently a graduate student in Northwestern University.
 - 💞️ I’m looking for a 2023 summer internship.
 
-![Metrics](https://metrics.lecoq.io/Lordworms?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FChicago)
-
 ![Lordworms's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Lordworms&show_icons=true&count_private=true&theme=gotham)
 
 <!---
