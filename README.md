@@ -6,4 +6,4 @@ You can reach me at [yanxinxiang0917@outlook.com](mailto:yanxinxiang0917@outlook
 
 ### I am still searching for the meaning of life in my confused 20s.
 
-![005IjmT6ly1hczo6fl7r8j31hc12y7wi](https://github.com/Lordworms/Lordworms/assets/48054792/86364dab-405d-45ea-9ede-e3e21d861237)
+![Berserk-1](https://github.com/user-attachments/assets/c74b1c16-3522-4d7d-9646-ce372da79778)
